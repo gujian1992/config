@@ -8,4 +8,4 @@ spring:
           uri: https://github.com/gujian1992/config.git
           search-paths: config
 server:
-  port: 8090
+  port: 8091
